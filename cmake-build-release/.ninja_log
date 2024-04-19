@@ -1,0 +1,8 @@
+# ninja log v5
+1867	1949	7352192961931908	session-1/session-1.exe	276d9c69335ecb10
+0	1861	7352192961083137	session-1/CMakeFiles/session-1.dir/main.cpp.obj	828c1d7d8deecd16
+1	64	7352195452019838	session-2/CMakeFiles/session-2.dir/main.cpp.obj	8ce54deed6f58ead
+65	155	7352195452897477	session-2/session-2.exe	7709b34064573609
+3	191	7352197796846770	build.ninja	3126286b77902a52
+4	1968	7352197974638465	session-1/CMakeFiles/session-1.dir/main.cpp.obj	21239b9dcc8ef279
+1969	2062	7352197975541797	session-1/session-1.exe	276d9c69335ecb10

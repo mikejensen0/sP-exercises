@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "session-1",
+					"jsonFile" : "directory-session-1-Debug-9c26e640944d724da35d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "session-1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "session-2",
+					"jsonFile" : "directory-session-2-Debug-ffb9d727748601203a56.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "session-2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "sP",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "session-1::@967d732bc0b9f3b93446",
+					"jsonFile" : "target-session-1-Debug-adb3a0e7207ad134fc30.json",
+					"name" : "session-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "session-2::@b0bbf5406aff61f50510",
+					"jsonFile" : "target-session-2-Debug-2104076af5308f74327b.json",
+					"name" : "session-2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug",
+		"source" : "C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

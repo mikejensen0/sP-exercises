@@ -1,0 +1,8 @@
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-1/CMakeFiles/session-1.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-1/CMakeFiles/edit_cache.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-1/CMakeFiles/rebuild_cache.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-2/CMakeFiles/session-2.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-2/CMakeFiles/edit_cache.dir
+C:/Users/ownag/OneDrive - Aalborg Universitet/Kandidat Software/8. Semester/sP/sP-exercises/cmake-build-debug/session-2/CMakeFiles/rebuild_cache.dir
