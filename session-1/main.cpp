@@ -4,6 +4,8 @@
 #include <utility>
 #include <cstring>
 #include <string.h>
+#include "1.3.h"
+
 using namespace std::chrono;
 using namespace std;
 
@@ -22,15 +24,21 @@ void swap_ends(vector<int>& arr) { // overloading the same fn-name
 }
 
 void swap_ends_memcpy_static(char dest[], char src[]) {
+    cout << "Src: " << src << endl;
+    cout << "Dest: " << dest << endl;
+
     memcpy(dest, src, 5*sizeof(int)/2); // first half
-    //memcpy(); // second half
-    //memcpy(); // combine both
+    memcpy(dest + 5*sizeof(int)/2, src + 5*sizeof(int)/2, 5*sizeof(int)/2); // second half
+    // swap and combine
+    memcpy(dest + 5*sizeof(int)/2, src, 5*sizeof(int)/2);
+
+    cout << "Src: " << src << endl;
+    cout << "Dest: " << dest << endl;
 }
 
 void swap_ends_memcpy_dynamic() {
 
 }
-
 int main(){
     // 1.2
     // The cache needs to be "warmed up" before use
@@ -71,7 +79,6 @@ int main(){
 
 
     // Dynamic
-
 
 }
 
